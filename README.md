@@ -1,2 +1,2 @@
-# MANInst
-Mask Activation Network for Instance Segmentation in Internet of Things
+# MAFEInst
+Real-Time Instance Segmentation Algorithm Based on Mask Activation and Feature Enhancement
